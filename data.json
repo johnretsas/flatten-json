@@ -1,0 +1,24 @@
+{
+  "project": {
+    "name": "Project A",
+    "tasks": [
+      {
+        "title": "Task 1",
+        "status": "in progress"
+      },
+      {
+        "title": "Task 2",
+        "status": "completed"
+      },
+      {
+        "title": "Task 3",
+        "status": "in progress"
+      },
+      {
+        "title": "Task 4",
+        "status": "completed"
+      }
+    ],
+    "teamMembers": ["Alice", "Bob"]
+  }
+}
